@@ -30,13 +30,13 @@ This project is a Python application that displays a translucent circle at the c
 2. Navigate to the project directory:
 
    ```bash
-   cd circle-drawer
+   cd Cursor-Finder
    ```
 
 3. Install the required Python packages:
 
    ```bash
-   pip install pyqt5 pyautogui keyboard
+   pip -r requirements.txt
    ```
 
 ## Usage
