@@ -36,7 +36,7 @@ This project is a Python application that displays a translucent circle at the c
 3. Install the required Python packages:
 
    ```bash
-   pip -r requirements.txt
+   pip install -r requirements.txt
    ```
 
 ## Usage
