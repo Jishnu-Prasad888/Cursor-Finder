@@ -24,7 +24,7 @@ This project is a Python application that displays a translucent circle at the c
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/circle-drawer.git
+   git clone https://github.com/Jishnu-Prasad888/Cursor-Finder.git
    ```
 
 2. Navigate to the project directory:
